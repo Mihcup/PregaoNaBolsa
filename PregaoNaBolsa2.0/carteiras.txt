@@ -1,0 +1,9 @@
+�Carteira 
+Codigo: CART0101
+Ativos: Fundo: Codigo: 003H, Preço Atual:12000.5, Empresa: KINEA CO-INVESTIMENTO FDO INV IMOBParticipação: 12.0
+Fundo: Codigo: 0FEA, Preço Atual:1400.0, Empresa: SPIM FUNDO DE INVESTIMENTO IMOBILIÁRIOParticipação: 25.4
+Ação: Codigo: A2RR, Preço Atual:1230.55, Empresa: ARROWHEAD PHARMACEUTICALS INCQuantidade: 2
+Ação: Codigo: AAGR, Preço Atual:30000.23, Empresa: ASSET BANK AGRONEGÓCIOS FIAGRO IMOBILIARIOQuantidade: 5
+
+ade: 5
+
