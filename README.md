@@ -1,6 +1,4 @@
 # Pregão na bolsa de valores
-<span style="color: red;">Este texto está em vermelho.</span>
-
 # Sobre os desenvolvedores do projeto:
 A equipe de desenvolvimento é composta pelos seguintes integrantes:
 - João Pedro de Oliveira Félix;
