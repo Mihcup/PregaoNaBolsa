@@ -17,4 +17,7 @@ Após a execução das transações, os ativos comprados serão guardados na car
 # Sobre o desenvolvimento do projeto:
 Para o desenvolvimento do nosso projeto, nós utilizamos a linguagem de programação Java e a IDE IntelliJ. Desenvolvemos o projeto inteiramente em equipe, durante as aulas junto com nosso professor Ugo Henrique e durante chamadas de vídeo.
 
+**LINK DO VIDEO SOBRE O PROJETO 
+**: https://youtu.be/cON45qgBCx4
+
 
