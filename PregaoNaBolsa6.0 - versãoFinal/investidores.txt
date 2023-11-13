@@ -1,0 +1,59 @@
+�
+
+Investidor: Nome: João Félix
+Código de acesso: 123ef
+CPF: 123.456.789-10
+Telefone: (11) 97812-3478
+Carteira: Carteira 
+Codigo: 2394
+Ativos: Ação: Código: PETZ3, Preço Atual:10.0, Empresa: Petz, Quantidade: 2
+Ação: Código: ARZZ3, Preço Atual:89.0, Empresa: Arezzo, Quantidade: 1
+Ação: Código: NTCO3, Preço Atual:50.0, Empresa: Natura & CO, Quantidade: 1
+Ação: Código: VALE3, Preço Atual:80.0, Empresa: Vale, Quantidade: 2
+
+
+
+
+
+Investidor: Nome: Jo Tavares
+Código de acesso: 345tm
+CPF: 019.876.543-21
+Telefone: (11) 91432-6789
+Carteira: Carteira 
+Codigo: 0308
+Ativos: Ação: Código: PETR3, Preço Atual:150.0, Empresa: Petrobrás, Quantidade: 11
+Ação: Código: CYRE3, Preço Atual:60.0, Empresa: Cyrela, Quantidade: 12
+Ação: Código: BBSE3, Preço Atual:18.0, Empresa: BB Seguridade, Quantidade: 6
+Ação: Código: VIVT3, Preço Atual:80.0, Empresa: Telefônica Brasil, Quantidade: 5
+Ação: Código: SBSP3, Preço Atual:24.0, Empresa: Sabesp, Quantidade: 1
+
+
+
+
+
+Investidor: Nome: Maris Mayu
+Código de acesso: 890mm
+CPF: 456.123.789-12
+Telefone: (11) 90571-3214
+Carteira: Carteira 
+Codigo: 2606
+Ativos: Ação: Código: SBSP3, Preço Atual:24.0, Empresa: Sabesp, Quantidade: 2
+Ação: Código: MULT3, Preço Atual:50.0, Empresa: Mulpipan, Quantidade: 3
+Ação: Código: ENBR3, Preço Atual:54.0, Empresa: Energias do Brasil, Quantidade: 16
+
+
+
+�
+
+Investidor: Nome: Millena Cupolillo
+Código de acesso: 567mc
+CPF: 456.789.321-54
+Telefone: (11) 90873-2145
+Carteira: Carteira 
+Codigo: 2405
+Ativos: Ação: Código: SANB11, Preço Atual:123.0, Empresa: Santander, Quantidade: 4
+Ação: Código: TIMS3, Preço Atual:38.9, Empresa: Tim, Quantidade: 4
+Ação: Código: GOAU4, Preço Atual:80.0, Empresa: Metalúrgica Gerdau, Quantidade: 9
+
+
+
