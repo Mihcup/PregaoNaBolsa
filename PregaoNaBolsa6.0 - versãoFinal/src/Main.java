@@ -193,7 +193,7 @@ public class Main {
                 investidores.add(inv); // Adiciona o objeto convertido à nova lista
             }
         }
-        System.out.println("Investidores ordenados por orddem alfabética:");
+        System.out.println("Investidores ordenados por ordem alfabética:");
         ShellSort.sortInvestidoresPorNome(investidores); //ordenou
         for(int i=0; i< investidores.getSize();i++){
             Investidor investidor = investidores.retornarValor(i);
